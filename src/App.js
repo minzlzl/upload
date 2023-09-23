@@ -20,6 +20,11 @@ function App() {
       <p>package.json파일 최상단에 "homepage": "https://minzlzl.github.io/레파지토리명"</p>
       <p>npm run predeploy</p>
       <p>npm run deploy</p>
+      <br/>
+      <p>*연결 후 파일 추가로 올릴때*</p>
+      <p>git add .</p>
+      <p>git commit -m "커밋 내용"</p>
+      <p>git push -u origin main</p>
     </div>
   );
 }
