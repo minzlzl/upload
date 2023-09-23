@@ -21,6 +21,8 @@ function App() {
       <p>npm run predeploy</p>
       <p>npm run deploy</p>
       <br/>
+      <p>settings가서 pages클릭 후 Branch gh-pages 선택하고 저장</p>
+      <br/>
       <p>*연결 후 파일 추가로 올릴때*</p>
       <p>git add .</p>
       <p>git commit -m "커밋 내용"</p>
