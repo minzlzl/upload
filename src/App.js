@@ -27,6 +27,9 @@ function App() {
       <p>git add .</p>
       <p>git commit -m "커밋 내용"</p>
       <p>git push -u origin main</p>
+      <br/>
+      <br/>
+      <p>https://recoveryman.tistory.com/392 → 자격증명관리자</p>
     </div>
   );
 }
